@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .main-app {
+    height: 100vh;
+    background: linear-gradient(to right, #000b8a, #47b0e9);
+    text-align: center;
+  }
+  
+  .main-content {
+    background-color: #191935;
+    color: #ffffff;
+    border-radius: 20px;
+    max-width: 500px;
+  }
+  
+  .title {
+    margin-bottom: 25px;
+  }
+  
+  .quotes {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    padding: 0 35px;
+  }
+  
+  .author {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  
+  button {
+    cursor: pointer;
+    font-size: 1.2rem;
+  }
+  
+  
+  
